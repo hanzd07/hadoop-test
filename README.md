@@ -1,1 +1,1 @@
-# hadoop-test
+# Taller Hadoop - Pueba de Velocidad, Variedad y Visualización
